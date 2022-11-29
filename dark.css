@@ -8,7 +8,7 @@ body{
 }
 #maincontainer{
     width: 100%;
-    border: 2px solid rgb(255, 111, 0);
+   /*border: 2px solid rgb(255, 111, 0);*/
 }
 #slidesec{
     width: 100%;
